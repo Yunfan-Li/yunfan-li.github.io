@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Yunfan-Li
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yunfan-li/Contrastive-Clustering
+  - yunfan-li/Twin-Contrastive-Learning
+  - yunfan-li/Interpretable-Neural-Clustering
+  - yunfan-li/scBridge
