@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been invited to be a Reviewer for BMC Bioinformatics [[BMC Bioinform.]](https://bmcbioinformatics.biomedcentral.com/).
+I have been invited to be a Reviewer for BMC Bioinformatics [[BMCBioinform]](https://bmcbioinformatics.biomedcentral.com/).
