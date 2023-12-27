@@ -18,6 +18,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Sichuan University Tecent Scholarship (Special Grade)
     - year: 2022
       items: 
         - National Scholarship <a href="https://mp.weixin.qq.com/s/UCpAdDwB5u3jaraxij8SYw">[Link]</a>
@@ -55,15 +58,18 @@
         - International Conference on Applied Artificial Intelligence (AICONF)
         - Asian Conference on Machine Learning (ACML)
         - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+        - International Conference on Pattern Recognition (ICPR)
         - International Conference on Image and Graphics (ICIG)
         - International Conference on Artificial Intelligence (CICAI)
     - title: Journal Reviewer
       items:
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence
         - IEEE Transactions on Neural Networks and Learning Systems
         - "IEEE Transactions on Systems, Man and Cybernetics: Systems"
         - IEEE Transactions on Circuits and Systems for Video Technology
         - IEEE Transactions on Emerging Topics in Computing
         - Neural Networks
+        - BMC Bioinformatics
         - CAAI Transactions on Intelligence Technology
         - IEEE/CAA Journal of Automatica Sinica
         - ​IET Computer Vision
