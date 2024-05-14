@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence [[TPAMI]](https://ieeexplore.ieee.org/document/9723577){:target="\_blank"}, 2022.
+One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence [[TPAMI-22]](https://ieeexplore.ieee.org/document/9723577){:target="\_blank"}, 2022.

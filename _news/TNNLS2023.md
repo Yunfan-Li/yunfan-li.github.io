@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems [[TNNLS]](https://ieeexplore.ieee.org/document/10086540){:target="\_blank"}, 2023.
+One paper was accepted by IEEE Transactions on Neural Networks and Learning Systems [[TNNLS-23]](https://ieeexplore.ieee.org/document/10086540){:target="\_blank"}, 2023.
