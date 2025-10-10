@@ -9,17 +9,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Postdoctoral Researcher
       institution: Schoold of Computer Science, Sichuan University
-      year: 2020-Now
+      year: 2025-Now
+    - title: Ph.D.
+      institution: Schoold of Computer Science, Sichuan University
+      year: 2020-2025
     - title: Bachelor
       institution: Schoold of Computer Science, Sichuan University
       year: 2016-2020
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - 博士后创新人才支持计划（博新计划）
     - year: 2023
       items: 
+        - （首届）国家自然科学基金青年学生基础研究项目（博士研究生）
         - Gold Prize in NeurIPS 2023 Competion - Single-Cell Perturbations <a href="https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview">[Link]</a>
         - Sichuan University Tecent Scholarship (Special Grade)
     - year: 2022
@@ -73,8 +80,11 @@
         - IEEE Transactions on Circuits and Systems for Video Technology
         - IEEE Transactions on Emerging Topics in Computing
         - Chinese Journal of Computers (计算机学报)
+        - Pattern Recognition
+        - Intelligent Computing
         - Neural Networks
         - BMC Bioinformatics
+        - Engineering Applications of Artificial Intelligence
         - CAAI Transactions on Intelligence Technology
         - IEEE/CAA Journal of Automatica Sinica
         - ​IET Computer Vision

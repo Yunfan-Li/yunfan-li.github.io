@@ -1,8 +1,9 @@
 github_users:
   - Yunfan-Li
+  - XLearning-SCU
 
 github_repos:
   - yunfan-li/Contrastive-Clustering
+  - XLearning-SCU/scBridge
   - yunfan-li/Twin-Contrastive-Learning
-  - yunfan-li/Interpretable-Neural-Clustering
-  - yunfan-li/scBridge
+  - XLearning-SCU/2024-ICML-TAC

@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Yunfan Li (李云帆). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor Peng [[website]](http://pengxi.me){:target="\_blank"}.
+Hi! My name is Yunfan Li (李云帆). I received my Ph.D. degree in 2025 from the College of Computer Science, Sichuan University, Chengdu, China, under the supervision of Professor Peng [[website]](http://pengxi.me){:target="\_blank"}. Currently, I am a postdoctoral researcher at the College of Computer Science, Sichuan University. My research interests include clustering, unsupervised learning, and AI for Science.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
